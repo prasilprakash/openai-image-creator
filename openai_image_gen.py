@@ -25,6 +25,7 @@ def show_image(command):
       response_format="url"
    )
    image_url = response['data'][0]['url']
+
    # A placeholder image for the UI testing since API access costs $$
    #image_url = "https://images.unsplash.com/photo-1559253664-ca249d4608c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZnJvZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
    response = requests.get(image_url)

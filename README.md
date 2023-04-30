@@ -20,3 +20,8 @@ Prerequisites: Setting up the OpenAI API key from https://platform.openai.com/
 `pip install -r requirements.txt`
 
 `flask --app openai_image_gen run`
+
+
+### Credits
+
+SVG background from https://www.svgbackgrounds.com/
