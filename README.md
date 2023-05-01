@@ -28,4 +28,5 @@ Prerequisites: Setting up the OpenAI API key from https://platform.openai.com/
 ### Credits
 
 OpenAI API: https://platform.openai.com/
+
 SVG background: https://www.svgbackgrounds.com/
